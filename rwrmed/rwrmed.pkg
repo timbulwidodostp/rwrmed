@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'rwrmed': Causal mediation analysis using regression with residuals Use rwrmed With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rwrmed.ado
+f rwrmed.sthlp
+f rwrmed_calc.ado
